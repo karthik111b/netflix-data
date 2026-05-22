@@ -1,7 +1,17 @@
-files = [
-    {"file_name": "netflix_cast.csv"},
-    {"file_name": "netflix_category.csv"},
-    {"file_name": "netflix_countries.csv"},
-    {"file_name": "netflix_directors.csv"},
-    {"file_name": "netflix_titles.csv"}
+[
+  {
+    "file_name": "netflix_cast.csv"
+  },
+  {
+    "file_name": "netflix_category.csv"
+  },
+  {
+    "file_name": "netflix_countries.csv"
+  },
+  {
+    "file_name": "netflix_directors.csv"
+  },
+  {
+    "file_name": "netflix_titles.csv"
+  }
 ]
